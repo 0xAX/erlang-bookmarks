@@ -137,6 +137,7 @@
 ## Other languages on top of Erlang VM
 
  * [elixir](http://elixir-lang.org/)
+ * [Joxa - a semantically clean, functional Lisp](http://joxa.org/)
  * [Lisp Flavored Erlang](http://lfe.github.io/)
  * [The Concurrent Schemer](https://github.com/the-concurrent-schemer/scm)
  * [Erjang is a virtual machine for Erlang, which runs on Java(tm).](https://github.com/trifork/erjang/wiki)
