@@ -96,6 +96,10 @@
  * [Erlang interface to low level socket operations](https://github.com/msantos/procket)
  * [barrel is a generic TCP acceptor pool with low latency in Erlang.](https://github.com/benoitc/barrel)
 
+## API clients
+
+ * [Amazon Web Services API library for Erlang.](https://github.com/gleber/erlcloud)
+
 ## Http clients
 
  * [simple HTTP client in Erlang](https://github.com/benoitc/hackney)
@@ -151,6 +155,7 @@
   * [Common Makefile rules for building and testing Erlang applications.](https://github.com/extend/erlang.mk)
   * [On-the-fly recompiling and reloading in Erlang. Code without friction.](https://github.com/rustyio/sync)
   * [Erlang code reloader. A standalone version of MochiWeb's `reloader' server.](https://github.com/oinksoft/reloader)
+  * [Futures for Erlang.](https://github.com/gleber/erlfu)
 
 ## Projects using Erlang
 
@@ -162,3 +167,4 @@
   * [Wings 3D is an advanced subdivision modeler](http://www.wings3d.com/)
   * [Open source dynamo clone written in Erlang.](https://github.com/moonpolysoft/dynomite)
   * [Phoebus is a distributed framework for large scale graph processing written in Erlang.](https://github.com/xslogic/phoebus)
+  * [Kha - continuous integration server in Erlang.](https://github.com/greenelephantlabs/kha)
