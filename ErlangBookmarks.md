@@ -82,7 +82,8 @@
  * [Couchbeam - simple erlang CouchDB framework.](http://benoitc.github.io/couchbeam/overview-summary.html)
  * [Record based Erlang driver for MongoDB with gridfs support](https://github.com/SergejJurecko/erlmongo/)
  * [Erlang Redis client](https://github.com/wooga/eredis)
-
+ * [KVS: Key-Value Storages Framework (Mnesia, Riak)](https://github.com/synrc/kvs)
+ 
 ## Loggers
 
  * [A logging framework for Erlang/OTP](https://github.com/basho/lager)
