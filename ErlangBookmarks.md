@@ -62,7 +62,7 @@
 
 ## Package managers
 
- * [A sophisticated build-tool for Erlang projects that follows OTP principles](https://github.com/basho/rebar)
+ * [A sophisticated build-tool for Erlang projects that follows OTP principles](https://github.com/rebar/rebar)
  * [A repository for publishing packages for BEAM-based languages](http://expm.co/)
  * [Sinan is a build tool designed to build Erlang/OTP Projects, Releases and Applications.](http://erlware.github.io/sinan/)
  * [Erlang package manager](https://github.com/agner/agner)
