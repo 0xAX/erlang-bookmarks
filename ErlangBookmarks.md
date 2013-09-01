@@ -73,6 +73,8 @@
  * [Erlang plugin for IntelliJ IDEA](http://ignatov.github.io/intellij-erlang/)
  * [distel emacs - erlang IDE](https://github.com/massemanet/distel/)
  * [Vimerl is a plugin for programming in Erlang](http://www.vim.org/scripts/script.php?script_id=3743)
+ * [An Erlang Plugin for Sublime Text 2, which enables code completion and allows you to run tests within the editor itself.](https://github.com/ostinelli/SublimErl)
+ * [Better Erlang Support for Sublime Text](https://github.com/fjl/Sublime-Erlang)
 
 ## Database clients
 
@@ -89,6 +91,7 @@
  * [Erlang Error Logger](http://www.erlang.org/doc/man/error_logger.html)
  * [A logging framework for Erlang/OTP](https://github.com/basho/lager)
  * [Heroku log router](https://github.com/heroku/logplex)
+ * [A logger for erlang in the spirit of Log4J.](https://github.com/ahmednawras/log4erl)
 
 ## Network
 
