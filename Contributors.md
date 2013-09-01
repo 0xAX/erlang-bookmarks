@@ -6,3 +6,4 @@
  * [Abe Voelker](https://github.com/abevoelker)
  * [Gleb Peregud](https://github.com/gleber)
  * [Sina Samavati](https://github.com/s1n4)
+ * [goofansu](https://github.com/goofansu)
