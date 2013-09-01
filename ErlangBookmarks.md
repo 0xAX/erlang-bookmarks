@@ -116,7 +116,7 @@
  * [Erlang Web Framework on WebSockets](https://github.com/5HT/n2o)
  * [A micro-framework for web applications in Erlang](https://github.com/tsujigiri/axiom)
  * [Minimum viable Erlang web framework](https://github.com/flashingpumpkin/spooky)
- * [Webmachine - A REST-based system for building web applications.]()
+ * [Webmachine - A REST-based system for building web applications.](https://github.com/basho/webmachine)
  * [Comparison of Erlang Web Frameworks](https://github.com/evanmiller/ChicagoBoss/wiki/Comparison-of-Erlang-Web-Frameworks)
 
 ## Web servers
@@ -157,6 +157,8 @@
   * [On-the-fly recompiling and reloading in Erlang. Code without friction.](https://github.com/rustyio/sync)
   * [Erlang code reloader. A standalone version of MochiWeb's `reloader' server.](https://github.com/oinksoft/reloader)
   * [Futures for Erlang.](https://github.com/gleber/erlfu)
+  * [Easy building and installing of Erlang/OTP instances](https://github.com/spawngrid/kerl)
+  
 
 ## Projects using Erlang
 
