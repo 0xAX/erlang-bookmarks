@@ -116,7 +116,7 @@
  * [Erlang Web Framework on WebSockets](https://github.com/5HT/n2o)
  * [A micro-framework for web applications in Erlang](https://github.com/tsujigiri/axiom)
  * [Minimum viable Erlang web framework](https://github.com/flashingpumpkin/spooky)
- * [Webmachine - A REST-based system for building web applications.]()
+ * [Webmachine - A REST-based system for building web applications.](https://github.com/basho/webmachine)
  * [Comparison of Erlang Web Frameworks](https://github.com/evanmiller/ChicagoBoss/wiki/Comparison-of-Erlang-Web-Frameworks)
 
 ## Web servers
