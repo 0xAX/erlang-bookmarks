@@ -157,6 +157,8 @@
   * [On-the-fly recompiling and reloading in Erlang. Code without friction.](https://github.com/rustyio/sync)
   * [Erlang code reloader. A standalone version of MochiWeb's `reloader' server.](https://github.com/oinksoft/reloader)
   * [Futures for Erlang.](https://github.com/gleber/erlfu)
+  * [Easy building and installing of Erlang/OTP instances](https://github.com/spawngrid/kerl)
+  
 
 ## Projects using Erlang
 
