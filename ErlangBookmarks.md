@@ -86,6 +86,7 @@
  
 ## Loggers
 
+ * [Erlang Error Logger](http://www.erlang.org/doc/man/error_logger.html)
  * [A logging framework for Erlang/OTP](https://github.com/basho/lager)
  * [Heroku log router](https://github.com/heroku/logplex)
 
