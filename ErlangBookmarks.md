@@ -129,10 +129,10 @@
 
 ## Json
 
- * [JSONX is an Erlang library for efficient decode and encode JSON, written in C.](github.com/iskra/jsonx)
- * [jiffy - JSON NIFs for Erlang](github.com/davisp/jiffy)
- * [The json encoding modules from mochiweb](github.com/bjnortier/mochijson2)
- * [an erlang application for consuming, producing and manipulating json. inspired by yajl](github.com/talentdeficit/jsx)
+ * [JSONX is an Erlang library for efficient decode and encode JSON, written in C.](https://github.com/iskra/jsonx)
+ * [jiffy - JSON NIFs for Erlang](https://github.com/davisp/jiffy)
+ * [The json encoding modules from mochiweb](https://github.com/bjnortier/mochijson2)
+ * [an erlang application for consuming, producing and manipulating json. inspired by yajl](https://github.com/talentdeficit/jsx)
 
 ## Podcasts
 
