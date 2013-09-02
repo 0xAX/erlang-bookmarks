@@ -85,6 +85,7 @@
  * [Record based Erlang driver for MongoDB with gridfs support](https://github.com/SergejJurecko/erlmongo/)
  * [Erlang Redis client](https://github.com/wooga/eredis)
  * [KVS: Key-Value Storages Framework (Mnesia, Riak)](https://github.com/synrc/kvs)
+ * [BossDB: a sharded, caching, pooling, evented ORM for Erlang](https://github.com/evanmiller/boss_db)
  
 ## Loggers
 
