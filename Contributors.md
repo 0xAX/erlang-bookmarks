@@ -9,3 +9,6 @@
  * [goofansu](https://github.com/goofansu)
  * [Bip Thelin](https://github.com/bipthelin)
  * [Doug Tykocki](https://github.com/dtykocki)
+ * [John Daily](https://twitter.com/macintux)
+ * [Pradeep Gowda](https://twitter.com/btbytes)
+ 
