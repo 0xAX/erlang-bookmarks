@@ -8,6 +8,7 @@
  * [Erlang concepts](http://www.it.uu.se/edu/course/homepage/prognovis/st11/reading/erlang-concepts.pdf)
  * [A little Erlang Tutorial](http://wrongnotes.blogspot.com/2007/09/little-erlang.html)
  * [Erlang OTP for beginners – Part I](http://pingbacks.wordpress.com/2012/12/13/erlang-otp-for-beginners-part-i/)
+ * [Thinking in Erlang](http://ru.scribd.com/doc/44221/Thinking-in-Erlang)
  * [Some Erlang Magic for Beginners](http://inaka.net/blog/2012/12/03/some-erlang-magic/)
  * [Running Erlang on Mac OS X](http://rudamoura.com/erlang-on-mac.html)
  * [Erlang Basics](http://alancastro.org/2010/04/26/erlang-basics.html)
@@ -26,11 +27,23 @@
  * [Erlang and OTP in Action by Martin Logan](http://www.amazon.com/Erlang-OTP-Action-Martin-Logan/dp/1933988789/ref=pd_sim_b_6)
  * [Building Web Applications with Erlang: Working with REST and Web Sockets on Yaws by Zachary Kessin](http://www.amazon.com/Building-Web-Applications-Erlang-Working/dp/1449309968/ref=pd_sim_b_3)
 
+## Community
+
+ * [Mailing lists](http://www.erlang.org/static/doc/mailinglist.html)
+ * [Planet Erlang](http://www.planeterlang.org/)
+ * [Erlang Central is a complete resource hub for the Erlang programming language community.](https://erlangcentral.org/)
+
+## Exercises
+
+ * [Études for Erlang](http://chimera.labs.oreilly.com/books/1234000000726)
+ * [Erlang Programming Exercises](http://www.erlang.org/course/exercises.html)
+
 ## Documentation
 
  * [Erlang/OTP documentation](http://www.erlang.org/doc/)
  * [Erlang Reference Manual User's Guide](http://www.erlang.org/doc/reference_manual/users_guide.html)
  * [Alternative to the  official erlang documentation](http://erldocs.com/)
+ * [Inside the Erlang VM with focus on SMP (PDF)](http://www.erlang.se/euc/08/euc_smp.pdf)
 
 ## Style guide and Erlang Enhancement Proposals
 
@@ -144,6 +157,10 @@
 ## Podcasts
 
  * [A regular podcast about #erlang and related topics](http://mostlyerlang.com/)
+
+## Erlang interviews and resources
+
+ * [Introduction to erlang and other useful stuff by @pdincau](http://pdincau.wordpress.com/category/erlang/)
 
 ## Other languages on top of Erlang VM
 
