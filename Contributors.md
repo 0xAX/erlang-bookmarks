@@ -8,3 +8,4 @@
  * [Sina Samavati](https://github.com/s1n4)
  * [goofansu](https://github.com/goofansu)
  * [Bip Thelin](https://github.com/bipthelin)
+ * [Doug Tykocki](https://github.com/dtykocki)
