@@ -15,6 +15,7 @@
  * [Interactive tutorial that allows you to try the power of Erlang directly in your browser](http://www.tryerlang.org/)
  * [Erlang examples](http://www.erlang.org/examples)
  * [Building a Non-blocking TCP server using OTP principles](https://erlangcentral.org/wiki/index.php/Building_a_Non-blocking_TCP_server_using_OTP_principles)
+ * [10 Erlang one liners to impress your friends](http://d1ffuz0r.com/10-erlang-one-liners-to-impress-your-friends.html)
 
 ## Books
 
