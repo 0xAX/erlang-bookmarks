@@ -173,6 +173,7 @@
  * [Lua in Erlang](https://github.com/rvirding/luerl)
  * [Prolog interpreter in and for Erlang](https://github.com/rvirding/erlog)
  * [Ruby-like hybrid OOP/functional programming language for BEAM, the Erlang VM](https://github.com/tarcieri/reia)
+ * [Programming language with C-like syntax that runs on the Erlang platform](https://github.com/marianoguerra/efene)
 
 ## Utils
 
