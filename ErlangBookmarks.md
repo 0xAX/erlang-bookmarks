@@ -41,6 +41,8 @@
  * [Automated Testing - 3 parts tutorial](http://erlcode.wordpress.com/2010/11/10/automated-testing-bringing-out-the-big-guns-part-1/)
  * [Erlang Fprof Output Confusing? Try KCachegrind](http://blog.equanimity.nl/blog/2013/04/24/fprof-kcachegrind/)
  * [A Basic Full Text Search Server in Erlang](http://blog.equanimity.nl/blog/2011/10/07/a-basic-full-text-search-server-in-erlang/)
+ * [Consensus, Raft and Rafter - video](http://vimeo.com/71635670)
+ * [Consensus, Raft and Rafter - slides](https://speakerdeck.com/tsantero/consensus-raft-and-rafter)
 
 ## Books
 
