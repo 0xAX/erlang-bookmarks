@@ -39,6 +39,8 @@
  * [EUnit - Common special errors](http://erlcode.wordpress.com/2010/10/10/eunit-common-special-errors/)
  * [Eunit Testing gen_fsm - 4 parts tutorial](http://erlcode.wordpress.com/2010/09/05/eunit-testing-gen_fsm/)
  * [Automated Testing - 3 parts tutorial](http://erlcode.wordpress.com/2010/11/10/automated-testing-bringing-out-the-big-guns-part-1/)
+ * [Erlang Fprof Output Confusing? Try KCachegrind](http://blog.equanimity.nl/blog/2013/04/24/fprof-kcachegrind/)
+ * [A Basic Full Text Search Server in Erlang](http://blog.equanimity.nl/blog/2011/10/07/a-basic-full-text-search-server-in-erlang/)
 
 ## Books
 
