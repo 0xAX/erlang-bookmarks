@@ -24,7 +24,7 @@
  * [Programming Erlang: Software for a Concurrent World by Joe Armstrong](http://www.amazon.com/Programming-Erlang-Software-Concurrent-World/dp/193778553X/ref=pd_sim_sbs_b_9)
  * [Erlang Programming by Francesco Cesarini](http://www.amazon.com/ERLANG-Programming-Francesco-Cesarini/dp/0596518188/ref=pd_sim_b_2)
  * [Introducing Erlang by Simon St. Laurent](http://www.amazon.com/gp/product/1449331769/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449331769&linkCode=as2&tag=dotnettaxi-20)
- * [Erlang/OTP by Pavlo Baron](http://www.amazon.com/gp/product/3941841459/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=3941841459&linkCode=as2&tag=dotnettaxi-20) 
+ * [Erlang/OTP by Pavlo Baron](http://www.amazon.com/gp/product/3941841459/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=3941841459&linkCode=as2&tag=dotnettaxi-20)
  * [Erlang and OTP in Action by Martin Logan](http://www.amazon.com/Erlang-OTP-Action-Martin-Logan/dp/1933988789/ref=pd_sim_b_6)
  * [Building Web Applications with Erlang: Working with REST and Web Sockets on Yaws by Zachary Kessin](http://www.amazon.com/Building-Web-Applications-Erlang-Working/dp/1449309968/ref=pd_sim_b_3)
 
@@ -50,6 +50,10 @@
 
  * [Programming Rules and Conventions](http://www.erlang.se/doc/programming_rules.shtml)
  * [List of Erlang Enhancement Proposals](http://www.erlang.org/eeps/)
+
+## Erlang Internals
+ * [Erlang Engine Tuning: Part 1 - Know your Engine by Erik Stenman](http://www.youtube.com/watch?v=QbzH0L_0pxI)
+ * [Erlang Engine Tuning: Part 2 - Know your Engine by Erik Stenman](http://www.youtube.com/watch?v=RcyN2yS5PRU)
 
 ## Documentation tools
 
@@ -101,7 +105,7 @@
  * [KVS: Key-Value Storages Framework (Mnesia, Riak)](https://github.com/synrc/kvs)
  * [BossDB: a sharded, caching, pooling, evented ORM for Erlang](https://github.com/evanmiller/boss_db)
  * [Erlang VoltDB driver](https://github.com/VoltDB/voltdb-client-erlang)
- 
+
 ## Loggers
 
  * [Erlang Error Logger](http://www.erlang.org/doc/man/error_logger.html)
@@ -184,7 +188,7 @@
   * [Erlang code reloader. A standalone version of MochiWeb's `reloader' server.](https://github.com/oinksoft/reloader)
   * [Futures for Erlang.](https://github.com/gleber/erlfu)
   * [Easy building and installing of Erlang/OTP instances](https://github.com/spawngrid/kerl)
-  
+
 
 ## Projects using Erlang
 
