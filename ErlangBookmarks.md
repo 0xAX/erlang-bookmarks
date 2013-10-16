@@ -32,7 +32,7 @@
  * [Universal Makefile for Erlang Projects That Use Rebar](http://blog.erlware.org/2013/06/04/universal-makefile-for-erlang-projects-that-use-rebar/)
  * [Don't Lose Your ETS Tables](http://steve.vinoski.net/blog/2011/03/23/dont-lose-your-ets-tables/)
  * [Implementation of "Don't Lose Your ETS Tables"](http://steve.vinoski.net/blog/2013/05/08/implementation-of-dont-lose-your-ets-tables/)
- * [Modern Server Application Design](http://event.on24.com/eventRegistration/console/EventConsoleNG.jsp?uimode=nextgeneration&eventid=669441&sessionid=1&username=&partnerref=&format=fhaudio&mobile=false&flashsupportedmobiledevice=false&helpcenter=false&key=621D632F556B04661E22735D1A9240AA&text_language_id=en&playerwidth=1000&playerheight=650&overwritelobby=y&eventuserid=85417063&contenttype=A&mediametricsessionid=68831200&mediametricid=1119933&usercd=85417063&mode=launch#)
+ * [Modern Server Application Design](http://oreillynet.com/pub/e/2877)
  * [Writing Beautiful Code - video](http://www.youtube.com/watch?v=IdJwECjylB4)
  * [Writing Beautiful Code - slides](http://www.gar1t.com/presentations/2013-03-27-beautiful-code/index.html#slide1)
  * [Erlang TDD hands on project - WorkerNet - 8 parts tutorial](http://erlcode.wordpress.com/2010/12/17/erlang-tdd-hands-on-project-workernet-part-1/)
@@ -46,7 +46,7 @@
 
 ## Books
 
- * [Learn you some Erlang by Fred Hebert](http://learnyousomeerlang.com/)
+ * [Learn you some Erlang by Fred Hébert](http://learnyousomeerlang.com/)
  * [Programming Erlang: Software for a Concurrent World by Joe Armstrong](http://www.amazon.com/Programming-Erlang-Software-Concurrent-World/dp/193435600X/ref=pd_sim_sbs_b_4)
  * [Programming Erlang: Software for a Concurrent World by Joe Armstrong](http://www.amazon.com/Programming-Erlang-Software-Concurrent-World/dp/193778553X/ref=pd_sim_sbs_b_9)
  * [Erlang Programming by Francesco Cesarini](http://www.amazon.com/ERLANG-Programming-Francesco-Cesarini/dp/0596518188/ref=pd_sim_b_2)
@@ -116,7 +116,7 @@
  * [Sinan is a build tool designed to build Erlang/OTP Projects, Releases and Applications. (Deprecated)](https://github.com/erlware-deprecated/sinan)
  * [Erlang package manager](https://github.com/agner/agner)
 
-## Editors and IDE's
+## Editors and IDEs
 
  * [erlide is an Erlang IDE based on Eclipse.](http://erlide.org/)
  * [Erlang plugin for IntelliJ IDEA](http://ignatov.github.io/intellij-erlang/)
@@ -220,6 +220,7 @@
   * [Erlang code reloader. A standalone version of MochiWeb's `reloader' server.](https://github.com/oinksoft/reloader)
   * [Futures for Erlang.](https://github.com/gleber/erlfu)
   * [Easy building and installing of Erlang/OTP instances](https://github.com/spawngrid/kerl)
+  * [Recon - Collection of functions and scripts to debug Erlang in production](http://ferd.github.io/recon/)
 
 
 ## Projects using Erlang
@@ -233,3 +234,4 @@
   * [Open source dynamo clone written in Erlang.](https://github.com/moonpolysoft/dynomite)
   * [Phoebus is a distributed framework for large scale graph processing written in Erlang.](https://github.com/xslogic/phoebus)
   * [Kha - continuous integration server in Erlang.](https://github.com/greenelephantlabs/kha)
+  * [Logplex - syslog log router](https://github.com/heroku/logplex)
