@@ -121,6 +121,7 @@
  * [erlide is an Erlang IDE based on Eclipse.](http://erlide.org/)
  * [Erlang plugin for IntelliJ IDEA](http://ignatov.github.io/intellij-erlang/)
  * [distel emacs - erlang IDE](https://github.com/massemanet/distel/)
+ * [Wrangler - refactoring tool for Emacs and Erlide (with buildin distel)](https://www.cs.kent.ac.uk/projects/wrangler/Wrangler/Home.html)
  * [Vimerl is a plugin for programming in Erlang](http://www.vim.org/scripts/script.php?script_id=3743)
  * [An Erlang Plugin for Sublime Text 2, which enables code completion and allows you to run tests within the editor itself.](https://github.com/ostinelli/SublimErl)
  * [Better Erlang Support for Sublime Text](https://github.com/fjl/Sublime-Erlang)
