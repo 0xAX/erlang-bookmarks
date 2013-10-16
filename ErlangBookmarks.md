@@ -35,6 +35,10 @@
  * [Modern Server Application Design](http://event.on24.com/eventRegistration/console/EventConsoleNG.jsp?uimode=nextgeneration&eventid=669441&sessionid=1&username=&partnerref=&format=fhaudio&mobile=false&flashsupportedmobiledevice=false&helpcenter=false&key=621D632F556B04661E22735D1A9240AA&text_language_id=en&playerwidth=1000&playerheight=650&overwritelobby=y&eventuserid=85417063&contenttype=A&mediametricsessionid=68831200&mediametricid=1119933&usercd=85417063&mode=launch#)
  * [Writing Beautiful Code - video](http://www.youtube.com/watch?v=IdJwECjylB4)
  * [Writing Beautiful Code - slides](http://www.gar1t.com/presentations/2013-03-27-beautiful-code/index.html#slide1)
+ * [Erlang TDD hands on project - WorkerNet - 8 parts tutorial](http://erlcode.wordpress.com/2010/12/17/erlang-tdd-hands-on-project-workernet-part-1/)
+ * [EUnit - Common special errors](http://erlcode.wordpress.com/2010/10/10/eunit-common-special-errors/)
+ * [Eunit Testing gen_fsm - 4 parts tutorial](http://erlcode.wordpress.com/2010/09/05/eunit-testing-gen_fsm/)
+ * [Automated Testing - 3 parts tutorial](http://erlcode.wordpress.com/2010/11/10/automated-testing-bringing-out-the-big-guns-part-1/)
 
 ## Books
 
