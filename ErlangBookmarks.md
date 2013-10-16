@@ -33,7 +33,8 @@
  * [Don't Lose Your ETS Tables](http://steve.vinoski.net/blog/2011/03/23/dont-lose-your-ets-tables/)
  * [Implementation of "Don't Lose Your ETS Tables"](http://steve.vinoski.net/blog/2013/05/08/implementation-of-dont-lose-your-ets-tables/)
  * [Modern Server Application Design](http://event.on24.com/eventRegistration/console/EventConsoleNG.jsp?uimode=nextgeneration&eventid=669441&sessionid=1&username=&partnerref=&format=fhaudio&mobile=false&flashsupportedmobiledevice=false&helpcenter=false&key=621D632F556B04661E22735D1A9240AA&text_language_id=en&playerwidth=1000&playerheight=650&overwritelobby=y&eventuserid=85417063&contenttype=A&mediametricsessionid=68831200&mediametricid=1119933&usercd=85417063&mode=launch#)
- * [Writing Beautiful Code](http://www.youtube.com/watch?v=IdJwECjylB4)
+ * [Writing Beautiful Code - video](http://www.youtube.com/watch?v=IdJwECjylB4)
+ * [Writing Beautiful Code - slides](http://www.gar1t.com/presentations/2013-03-27-beautiful-code/index.html#slide1)
 
 ## Books
 
