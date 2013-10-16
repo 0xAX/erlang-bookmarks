@@ -16,6 +16,24 @@
  * [Erlang examples](http://www.erlang.org/examples)
  * [Building a Non-blocking TCP server using OTP principles](https://erlangcentral.org/wiki/index.php/Building_a_Non-blocking_TCP_server_using_OTP_principles)
  * [10 Erlang one liners to impress your friends](http://d1ffuz0r.com/10-erlang-one-liners-to-impress-your-friends.html)
+ * [Dabbling in Erlang - minimal introduction - Part I](http://agis.kontext.gr/2013/05/19/dabbling-in-erlang-hello-function.html)
+ * [Dabbling in Erlang - minimal introduction - Part II](http://agis.kontext.gr/2013/10/12/dabbling-in-erlang-a-minimal-introduction.html)
+ * [Learn Erlang in Y minutes](http://learnxinyminutes.com/docs/erlang/)
+ * [Systems that run forever self-heal and scale](http://www.infoq.com/presentations/self-heal-scalable-system)
+
+## Erlang - more advanced topics
+ * [Erlang gproc Failure Semantics](http://christophermeiklejohn.com/erlang/2013/06/05/erlang-gproc-failure-semantics.html)
+ * [Monads in Erlang](http://amtal.github.io/2011/09/24/monads-in-erlang.html)
+ * [Optimizing Erlang applications: emysql](http://blog.process-one.net/optimizing-erlang-applications-emysql/)
+ * [Erlang/OTP releases: rebar, release_handler, .appup, .etc](http://www.metabrew.com/article/erlangotp-releases-rebar-release_handler-appup-etc)
+ * [Erlang rebar tutorial: generating releases and upgrades](http://www.metabrew.com/article/erlang-rebar-tutorial-generating-releases-upgrades)
+ * [Trivial OTP releases](http://blog.troutwine.us/2013/09/13/trivial_otp_releases.html)
+ * [Build Erlang releases with erlang.mk and relx](http://ninenines.eu/articles/erlang.mk-and-relx)
+ * [Universal Makefile for Erlang Projects That Use Rebar](http://blog.erlware.org/2013/06/04/universal-makefile-for-erlang-projects-that-use-rebar/)
+ * [Don't Lose Your ETS Tables](http://steve.vinoski.net/blog/2011/03/23/dont-lose-your-ets-tables/)
+ * [Implementation of "Don't Lose Your ETS Tables"](http://steve.vinoski.net/blog/2013/05/08/implementation-of-dont-lose-your-ets-tables/)
+ * [Modern Server Application Design](http://event.on24.com/eventRegistration/console/EventConsoleNG.jsp?uimode=nextgeneration&eventid=669441&sessionid=1&username=&partnerref=&format=fhaudio&mobile=false&flashsupportedmobiledevice=false&helpcenter=false&key=621D632F556B04661E22735D1A9240AA&text_language_id=en&playerwidth=1000&playerheight=650&overwritelobby=y&eventuserid=85417063&contenttype=A&mediametricsessionid=68831200&mediametricid=1119933&usercd=85417063&mode=launch#)
+ * [Writing Beautiful Code](http://www.youtube.com/watch?v=IdJwECjylB4)
 
 ## Books
 
@@ -54,6 +72,10 @@
 ## Erlang Internals
  * [Erlang Engine Tuning: Part 1 - Know your Engine by Erik Stenman](http://www.youtube.com/watch?v=QbzH0L_0pxI)
  * [Erlang Engine Tuning: Part 2 - Know your Engine by Erik Stenman](http://www.youtube.com/watch?v=RcyN2yS5PRU)
+ * [The BEAM Dispatcher](http://stenmans.org/happi_blog/?p=194)
+ * [The Erlang Tagging Scheme](http://stenmans.org/happi_blog/?p=176)
+ * [Erlang, Binaries, and Garbage Collection](http://dieswaytoofast.blogspot.ca/2012/12/erlang-binaries-and-garbage-collection.html)
+ * [How to create and compile module in run time](http://vas.io/blog/2013/03/23/erlang-how-to-create-and-compile-module-in-run-time/)
 
 ## Documentation tools
 
