@@ -14,4 +14,5 @@
  * [Roman Gladkov](http://github.com/d1ffuz0r)
  * [Nycholas de Oliveira e Oliveira](https://github.com/nycholas)
  * [Andrzej Sliwa](https://github.com/andrzejsliwa)
+ * [Fred Hebert](https://github.com/ferd)
  
