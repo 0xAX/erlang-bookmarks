@@ -27,6 +27,7 @@
  * [Optimizing Erlang applications: emysql](http://blog.process-one.net/optimizing-erlang-applications-emysql/)
  * [Erlang/OTP releases: rebar, release_handler, .appup, .etc](http://www.metabrew.com/article/erlangotp-releases-rebar-release_handler-appup-etc)
  * [Erlang rebar tutorial: generating releases and upgrades](http://www.metabrew.com/article/erlang-rebar-tutorial-generating-releases-upgrades)
+ * [Rebar plugin tutorial](http://hyperthunk.github.io/rebar-plugin-tutorial/)
  * [Trivial OTP releases](http://blog.troutwine.us/2013/09/13/trivial_otp_releases.html)
  * [Build Erlang releases with erlang.mk and relx](http://ninenines.eu/articles/erlang.mk-and-relx)
  * [Universal Makefile for Erlang Projects That Use Rebar](http://blog.erlware.org/2013/06/04/universal-makefile-for-erlang-projects-that-use-rebar/)
@@ -43,6 +44,8 @@
  * [A Basic Full Text Search Server in Erlang](http://blog.equanimity.nl/blog/2011/10/07/a-basic-full-text-search-server-in-erlang/)
  * [Consensus, Raft and Rafter - video](http://vimeo.com/71635670)
  * [Consensus, Raft and Rafter - slides](https://speakerdeck.com/tsantero/consensus-raft-and-rafter)
+ * [Webmachine, ErlyDTL and Riak](http://buffered.io/categories/webmachine/)
+ * [Erlang Real Time Server](http://vas.io/blog/categories/diameter/)
 
 ## Books
 
