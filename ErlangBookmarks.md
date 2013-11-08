@@ -89,6 +89,9 @@
  * [Erlang, Binaries, and Garbage Collection](http://dieswaytoofast.blogspot.ca/2012/12/erlang-binaries-and-garbage-collection.html)
  * [How to create and compile module in run time](http://vas.io/blog/2013/03/23/erlang-how-to-create-and-compile-module-in-run-time/)
 
+## War diaries
+ * [Troubleshooting Down the Logplex Rabbit Hole](https://blog.heroku.com/archives/2013/11/7/logplex-down-the-rabbit-hole)
+
 ## Documentation tools
 
  * [EDoc is the Erlang program documentation generator.](http://www.erlang.org/doc/apps/edoc/chapter.html)
