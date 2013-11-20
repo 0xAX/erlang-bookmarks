@@ -181,6 +181,7 @@
  * [Webmachine - A REST-based system for building web applications.](https://github.com/basho/webmachine)
  * [Small and flexible web framework on top of Cowboy](https://github.com/kivra/giallo)
  * [Comparison of Erlang Web Frameworks](https://github.com/evanmiller/ChicagoBoss/wiki/Comparison-of-Erlang-Web-Frameworks)
+ * [Leptus - REST framework](https://github.com/s1n4/leptus)
 
 ## Web servers
 
