@@ -16,4 +16,5 @@
  * [Andrzej Sliwa](https://github.com/andrzejsliwa)
  * [Fred Hebert](https://github.com/ferd)
  * [Eugene Kalinin](https://github.com/ekalinin)
+ * [Matthew Conway](https://github.com/mattonrails)
  
