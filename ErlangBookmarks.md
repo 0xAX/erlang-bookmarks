@@ -50,8 +50,8 @@
 ## Books
 
  * [Learn you some Erlang by Fred Hébert](http://learnyousomeerlang.com/)
- * [Programming Erlang: Software for a Concurrent World by Joe Armstrong](http://www.amazon.com/Programming-Erlang-Software-Concurrent-World/dp/193435600X/ref=pd_sim_sbs_b_4)
- * [Programming Erlang: Software for a Concurrent World by Joe Armstrong](http://www.amazon.com/Programming-Erlang-Software-Concurrent-World/dp/193778553X/ref=pd_sim_sbs_b_9)
+ * [Programming Erlang: Software for a Concurrent World by Joe Armstrong (1st edition)](http://www.amazon.com/Programming-Erlang-Software-Concurrent-World/dp/193435600X/ref=pd_sim_sbs_b_4)
+ * [Programming Erlang: Software for a Concurrent World by Joe Armstrong (2nd edition)](http://www.amazon.com/Programming-Erlang-Software-Concurrent-World/dp/193778553X/ref=pd_sim_sbs_b_9)
  * [Erlang Programming by Francesco Cesarini](http://www.amazon.com/ERLANG-Programming-Francesco-Cesarini/dp/0596518188/ref=pd_sim_b_2)
  * [Introducing Erlang by Simon St. Laurent](http://www.amazon.com/gp/product/1449331769/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449331769&linkCode=as2&tag=dotnettaxi-20)
  * [Erlang/OTP by Pavlo Baron](http://www.amazon.com/gp/product/3941841459/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=3941841459&linkCode=as2&tag=dotnettaxi-20)
