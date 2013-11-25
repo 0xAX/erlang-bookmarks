@@ -57,6 +57,7 @@
  * [Erlang/OTP by Pavlo Baron](http://www.amazon.com/gp/product/3941841459/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=3941841459&linkCode=as2&tag=dotnettaxi-20)
  * [Erlang and OTP in Action by Martin Logan](http://www.amazon.com/Erlang-OTP-Action-Martin-Logan/dp/1933988789/ref=pd_sim_b_6)
  * [Building Web Applications with Erlang: Working with REST and Web Sockets on Yaws by Zachary Kessin](http://www.amazon.com/Building-Web-Applications-Erlang-Working/dp/1449309968/ref=pd_sim_b_3)
+ * [Erlang Handbook. A concise reference for Erlang](http://opensource.erlang-solutions.com/erlang-handbook/)
 
 ## Community
 
