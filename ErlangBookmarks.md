@@ -115,6 +115,7 @@
  * [A Time Profiling Tool for Erlang](http://www.erlang.org/doc/man/eprof.html)
  * [Convert fprof to callgring output](https://github.com/isacssouza/erlgrind)
  * [A GUI tool for observing an erlang system.](http://www.erlang.org/doc/man/observer.html)
+ * [Analyze application performance and function call hierarchy with power of kcachegrind](https://github.com/virtan/eep)
 
 ## Package managers
 

@@ -17,4 +17,5 @@
  * [Fred Hebert](https://github.com/ferd)
  * [Eugene Kalinin](https://github.com/ekalinin)
  * [Matthew Conway](https://github.com/mattonrails)
+ * [Igor Milyakov](https://github.com/virtan)
  
