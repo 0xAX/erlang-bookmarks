@@ -116,6 +116,12 @@
  * [Convert fprof to callgring output](https://github.com/isacssouza/erlgrind)
  * [A GUI tool for observing an erlang system.](http://www.erlang.org/doc/man/observer.html)
  * [Analyze application performance and function call hierarchy with power of kcachegrind](https://github.com/virtan/eep)
+ * 
+
+## Load testing tools
+
+* [Tsung - multi-protocol distributed load testing tool.](https://github.com/processone/tsung)
+
 
 ## Package managers
 
