@@ -244,3 +244,4 @@
   * [Phoebus is a distributed framework for large scale graph processing written in Erlang.](https://github.com/xslogic/phoebus)
   * [Kha - continuous integration server in Erlang.](https://github.com/greenelephantlabs/kha)
   * [Logplex - syslog log router](https://github.com/heroku/logplex)
+  * [Chef - configuration menagment software](http://www.getchef.com)
