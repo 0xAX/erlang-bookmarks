@@ -116,6 +116,13 @@
  * [Convert fprof to callgring output](https://github.com/isacssouza/erlgrind)
  * [A GUI tool for observing an erlang system.](http://www.erlang.org/doc/man/observer.html)
  * [Analyze application performance and function call hierarchy with power of kcachegrind](https://github.com/virtan/eep)
+ * 
+
+## Load testing tools
+
+ * [Tsung - multi-protocol distributed load testing tool.](https://github.com/processone/tsung)
+ * [Basho_bench - tool with descriptive name.](https://github.com/basho/basho_bench)
+
 
 ## Package managers
 
@@ -244,3 +251,4 @@
   * [Phoebus is a distributed framework for large scale graph processing written in Erlang.](https://github.com/xslogic/phoebus)
   * [Kha - continuous integration server in Erlang.](https://github.com/greenelephantlabs/kha)
   * [Logplex - syslog log router](https://github.com/heroku/logplex)
+  * [Chef - configuration menagment software](http://www.getchef.com)
