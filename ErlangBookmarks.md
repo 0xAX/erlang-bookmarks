@@ -120,7 +120,8 @@
 
 ## Load testing tools
 
-* [Tsung - multi-protocol distributed load testing tool.](https://github.com/processone/tsung)
+ * [Tsung - multi-protocol distributed load testing tool.](https://github.com/processone/tsung)
+ * [Basho_bench - tool with descriptive name.](https://github.com/basho/basho_bench)
 
 
 ## Package managers
