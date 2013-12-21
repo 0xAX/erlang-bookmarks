@@ -18,4 +18,5 @@
  * [Eugene Kalinin](https://github.com/ekalinin)
  * [Matthew Conway](https://github.com/mattonrails)
  * [Igor Milyakov](https://github.com/virtan)
+ * [mpmiszczyk](https://github.com/mpmiszczyk)
  
