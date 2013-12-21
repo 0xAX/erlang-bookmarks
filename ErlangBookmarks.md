@@ -116,13 +116,13 @@
  * [Convert fprof to callgring output](https://github.com/isacssouza/erlgrind)
  * [A GUI tool for observing an erlang system.](http://www.erlang.org/doc/man/observer.html)
  * [Analyze application performance and function call hierarchy with power of kcachegrind](https://github.com/virtan/eep)
- * 
 
 ## Load testing tools
 
  * [Tsung - multi-protocol distributed load testing tool.](https://github.com/processone/tsung)
  * [Basho_bench - tool with descriptive name.](https://github.com/basho/basho_bench)
-
+ * [percept - profiler with focus on ports and processes states and interaction](http://www.erlang.org/doc/apps/percept/percept_ug.html)
+ * [percept2 - very extended version of standard tool, but still in development](https://github.com/RefactoringTools/percept2)
 
 ## Package managers
 
