@@ -116,6 +116,8 @@
  * [Convert fprof to callgring output](https://github.com/isacssouza/erlgrind)
  * [A GUI tool for observing an erlang system.](http://www.erlang.org/doc/man/observer.html)
  * [Analyze application performance and function call hierarchy with power of kcachegrind](https://github.com/virtan/eep)
+ * [percept - profiler with focus on ports and processes states and interaction](http://www.erlang.org/doc/apps/percept/percept_ug.html)
+ * [percept2 - very extended versin of standard tool, but sitll in development](https://github.com/RefactoringTools/percept2)
 
 ## Package managers
 
