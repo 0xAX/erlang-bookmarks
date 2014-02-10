@@ -1,14 +1,21 @@
 ## Erlang for beginners
 
  * [Why erlang?](http://veldstra.org/whyerlang/)
+ * [Why Use Erlang?](http://amtal.github.io/2011/08/01/why-use-erlang.html)
  * [Erlang: For an absolute beginner](http://dsingleton.co.uk/blog/erlang-beginners-tutorial)
- * [An Erlang OTP tutorial for beginners](http://blog.bot.co.za/en/article/349/an-erlang-otp-tutorial-for-beginners#.UiIsJafQtLQ)
+ * [An Erlang OTP tutorial for beginners](http://blog.bot.co.za/en/article/349/an-erlang-otp-tutorial-for-beginners)
  * [A Beginners Guide to Erlang](http://blog.equanimity.nl/blog/2013/05/29/a-beginners-guide-to-erlang/)
  * [What is the best way to learn Erlang?](http://stackoverflow.com/questions/1017017/what-is-the-best-way-to-learn-erlang)
+ * [The Joy of Erlang; Or, How To Ride A Toruk](http://www.evanmiller.org/joy-of-erlang.html)
  * [Erlang concepts](http://www.it.uu.se/edu/course/homepage/prognovis/st11/reading/erlang-concepts.pdf)
+ * [The Erlang Rationale](http://vidiowiki.com/media/paper/0m-V9dOL0AeY%20The_Erlang_Rationale.pdf)
+ * [Making Reliable Distributed Systems in the Presence of software errors](http://www.sics.se/~joe/thesis/armstrong_thesis_2003.pdf)
  * [A little Erlang Tutorial](http://wrongnotes.blogspot.com/2007/09/little-erlang.html)
  * [Erlang OTP for beginners – Part I](http://pingbacks.wordpress.com/2012/12/13/erlang-otp-for-beginners-part-i/)
  * [Thinking in Erlang](http://ru.scribd.com/doc/44221/Thinking-in-Erlang)
+ * [An Open Letter to the Erlang Beginner (or Onlooker)](http://ferd.ca/an-open-letter-to-the-erlang-beginner-or-onlooker.html)
+ * [Erlang is not a Concurrent Functional Programming Language](http://www.javalimit.com/2011/05/erlang-is-not-a-concurrent-functional-programming-language.html)
+ * [Erlangs parallelism is not parallelism!](http://jlouisramblings.blogspot.co.nz/2011/07/erlangs-parallelism-is-not-parallelism.html)
  * [Some Erlang Magic for Beginners](http://inaka.net/blog/2012/12/03/some-erlang-magic/)
  * [Running Erlang on Mac OS X](http://rudamoura.com/erlang-on-mac.html)
  * [Erlang Basics](http://alancastro.org/2010/04/26/erlang-basics.html)
@@ -18,10 +25,12 @@
  * [10 Erlang one liners to impress your friends](http://d1ffuz0r.com/10-erlang-one-liners-to-impress-your-friends.html)
  * [Dabbling in Erlang - minimal introduction - Part I](http://agis.kontext.gr/2013/05/19/dabbling-in-erlang-hello-function.html)
  * [Dabbling in Erlang - minimal introduction - Part II](http://agis.kontext.gr/2013/10/12/dabbling-in-erlang-a-minimal-introduction.html)
+ * [Solving Embarrassingly Obvious Problems In Erlang](http://www.gar1t.com/blog/solving-embarrassingly-obvious-problems-in-erlang.html)
  * [Learn Erlang in Y minutes](http://learnxinyminutes.com/docs/erlang/)
  * [Systems that run forever self-heal and scale](http://www.infoq.com/presentations/self-heal-scalable-system)
 
 ## Erlang - more advanced topics
+
  * [Erlang gproc Failure Semantics](http://christophermeiklejohn.com/erlang/2013/06/05/erlang-gproc-failure-semantics.html)
  * [Monads in Erlang](http://amtal.github.io/2011/09/24/monads-in-erlang.html)
  * [Optimizing Erlang applications: emysql](http://blog.process-one.net/optimizing-erlang-applications-emysql/)
@@ -46,6 +55,7 @@
  * [Consensus, Raft and Rafter - slides](https://speakerdeck.com/tsantero/consensus-raft-and-rafter)
  * [Webmachine, ErlyDTL and Riak](http://buffered.io/categories/webmachine/)
  * [Erlang Real Time Server](http://vas.io/blog/categories/diameter/)
+ * [Scaling  Erlang](http://inaka.net/blog/2011/10/07/scale-test-plan-simple-erlang-application/)
 
 ## Books
 
@@ -59,11 +69,22 @@
  * [Building Web Applications with Erlang: Working with REST and Web Sockets on Yaws by Zachary Kessin](http://www.amazon.com/Building-Web-Applications-Erlang-Working/dp/1449309968/ref=pd_sim_b_3)
  * [Erlang Handbook. A concise reference for Erlang](http://opensource.erlang-solutions.com/erlang-handbook/)
 
+## Videos
+
+ * [Erlang Solutions Vimeo](http://vimeo.com/erlang)
+ * [Erlang Solutions Youtube](http://www.youtube.com/user/ErlangSolutions)
+
 ## Community
 
  * [Mailing lists](http://www.erlang.org/static/doc/mailinglist.html)
  * [Planet Erlang](http://www.planeterlang.org/)
  * [Erlang Central is a complete resource hub for the Erlang programming language community.](https://erlangcentral.org/)
+
+## Blogs
+
+ * [Joe Armstrong - Erlang and other stuff](http://joearms.github.io/http://joearms.github.io/index.html)
+ * [JLOUIS Ramblings](http://jlouisramblings.blogspot.co.nz/)
+ * [As bad as anything else](http://ferd.ca/)
 
 ## Exercises
 
