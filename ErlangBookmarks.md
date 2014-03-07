@@ -57,6 +57,8 @@
  * [Webmachine, ErlyDTL and Riak](http://buffered.io/categories/webmachine/)
  * [Erlang Real Time Server](http://vas.io/blog/categories/diameter/)
  * [Scaling  Erlang](http://inaka.net/blog/2011/10/07/scale-test-plan-simple-erlang-application/)
+ * [Writing a URL Shortening Service in Erlang](http://userprimary.net/tags/common_test/)
+
 
 ## Books
 
