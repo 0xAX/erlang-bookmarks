@@ -86,7 +86,7 @@
 
 ## Blogs
 
- * [Joe Armstrong - Erlang and other stuff](http://joearms.github.io/http://joearms.github.io/index.html)
+ * [Joe Armstrong - Erlang and other stuff](http://joearms.github.io/)
  * [JLOUIS Ramblings](http://jlouisramblings.blogspot.co.nz/)
  * [As bad as anything else](http://ferd.ca/)
 
