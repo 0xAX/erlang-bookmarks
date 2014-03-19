@@ -71,6 +71,7 @@
  * [Erlang and OTP in Action by Martin Logan](http://www.amazon.com/Erlang-OTP-Action-Martin-Logan/dp/1933988789/ref=pd_sim_b_6)
  * [Building Web Applications with Erlang: Working with REST and Web Sockets on Yaws by Zachary Kessin](http://www.amazon.com/Building-Web-Applications-Erlang-Working/dp/1449309968/ref=pd_sim_b_3)
  * [Erlang Handbook. A concise reference for Erlang](http://opensource.erlang-solutions.com/erlang-handbook/)
+ * [Designing for Scalability with Erlang/OTP: Implementing Robust, Fault-Tolerant Systems](http://www.amazon.com/gp/product/1449320732/)
 
 ## Videos
  * [C4[1] Ippolito: Exploring Erlang](http://www.viddler.com/v/4b93caa4)
