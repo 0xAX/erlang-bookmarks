@@ -20,4 +20,5 @@
  * [Igor Milyakov](https://github.com/virtan)
  * [mpmiszczyk](https://github.com/mpmiszczyk)
  * [voila](https://github.com/voila)
+ * [MarkNijhof](https://github.com/MarkNijhof)
  
