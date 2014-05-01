@@ -16,7 +16,7 @@
  * [Andrzej Sliwa](https://github.com/andrzejsliwa)
  * [Fred Hebert](https://github.com/ferd)
  * [Eugene Kalinin](https://github.com/ekalinin)
- * [Matthew Conway](https://github.com/mattonrails)
+ * [Matthew Conway](https://github.com/mattreduce)
  * [Igor Milyakov](https://github.com/virtan)
  * [mpmiszczyk](https://github.com/mpmiszczyk)
  * [voila](https://github.com/voila)
