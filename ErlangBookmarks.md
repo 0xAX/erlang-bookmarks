@@ -59,7 +59,8 @@
  * [Scaling  Erlang](http://inaka.net/blog/2011/10/07/scale-test-plan-simple-erlang-application/)
  * [Writing a URL Shortening Service in Erlang](http://userprimary.net/tags/common_test/)
  * [Testing Erlang (A public book on testing Erlang)](https://github.com/zkessin/testing-erlang-book)
-
+ * [how to do erlang upgrads](https://github.com/extend/elevators)
+ * [How i Start - Erlang](http://howistart.org/posts/erlang/1)
 
 ## Books
 
