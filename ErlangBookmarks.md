@@ -103,7 +103,7 @@
  * [Erlang Reference Manual User's Guide](http://www.erlang.org/doc/reference_manual/users_guide.html)
  * [Alternative to the  official erlang documentation](http://erldocs.com/)
  * [Inside the Erlang VM with focus on SMP (PDF)](http://www.erlang.se/euc/08/euc_smp.pdf)
- * [Erlang Documentation Server](http://erldoc.info/) 
+ * [Erlang Documentation Server](http://erldoc.info/)
  * [Alternative to the official erlang documentation](http://erldocs.com/)
 
 ## Style guide and Erlang Enhancement Proposals
@@ -178,6 +178,7 @@
  * [Couchbeam - simple erlang CouchDB framework.](http://benoitc.github.io/couchbeam/overview-summary.html)
  * [Record based Erlang driver for MongoDB with gridfs support](https://github.com/SergejJurecko/erlmongo/)
  * [Erlang Redis client](https://github.com/wooga/eredis)
+ * [Heroku's Pipelined Redis client](https://github.com/heroku/redo)
  * [KVS: Key-Value Storages Framework (Mnesia, Riak)](https://github.com/synrc/kvs)
  * [BossDB: a sharded, caching, pooling, evented ORM for Erlang](https://github.com/evanmiller/boss_db)
  * [Erlang VoltDB driver](https://github.com/VoltDB/voltdb-client-erlang)
@@ -199,6 +200,9 @@
 ## API clients
 
  * [Amazon Web Services API library for Erlang.](https://github.com/gleber/erlcloud)
+ * [Balanced Payments (Payment Processor)](https://github.com/mattsta/balanced-erlang)
+ * [Stripe-Erlang (Payment Processor)](https://github.com/mattsta/stripe-erlang/)
+ * [EStripe (Payment Processor)](https://github.com/kato-im/estripe)
 
 ## Http clients
 
@@ -261,11 +265,19 @@
   * [The Dialyzer is a static analysis tool ](http://www.erlang.org/doc/man/dialyzer.html)
   * [erlang-history - Hacks to add shell history to Erlang's shell](https://github.com/ferd/erlang-history)
   * [Common Makefile rules for building and testing Erlang applications.](https://github.com/extend/erlang.mk)
-  * [On-the-fly recompiling and reloading in Erlang. Code without friction.](https://github.com/rustyio/sync)
+  * [Sync - On-the-fly recompiling and reloading in Erlang. Code without friction.](https://github.com/rustyio/sync)
+  * [Active - rebuilds & reloads source/binarys](https://github.com/proger/active)
+  * [Erlfsmon - Erlang filesystem event watcher for Linux & OSX](https://github.com/proger/erlfsmon)
   * [Erlang code reloader. A standalone version of MochiWeb's `reloader' server.](https://github.com/oinksoft/reloader)
   * [Futures for Erlang.](https://github.com/gleber/erlfu)
   * [Easy building and installing of Erlang/OTP instances](https://github.com/spawngrid/kerl)
   * [Recon - Collection of functions and scripts to debug Erlang in production](http://ferd.github.io/recon/)
+  * [Exometer - Measurement tools](https://github.com/Feuerlabs/exometer)
+  * [Safety Valve - Protecting against overflow protection & queueing services](https://github.com/jlous/safetyvalve)
+  * [Dispcount - Erlang task dispatcher](https://github.com/ferd/dispcount)
+  * [Folsom - Erlang events & Metrics](https://github.com/boundary/folsom)
+  * [send folsom metrics to graphite](https://github.com/campanja/folsomite)
+  * [eflame - Flame graph profiler for Erlang](https://github.com/proger/eflame)
 
 
 ## Projects using Erlang
@@ -281,3 +293,4 @@
   * [Kha - continuous integration server in Erlang.](https://github.com/greenelephantlabs/kha)
   * [Logplex - syslog log router](https://github.com/heroku/logplex)
   * [Chef - configuration menagment software](http://www.getchef.com)
+
