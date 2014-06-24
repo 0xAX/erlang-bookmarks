@@ -21,4 +21,5 @@
  * [mpmiszczyk](https://github.com/mpmiszczyk)
  * [voila](https://github.com/voila)
  * [MarkNijhof](https://github.com/MarkNijhof)
+ * [machinshin](https://github.com/machinshin)
  
