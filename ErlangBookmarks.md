@@ -170,6 +170,7 @@
  * [Vimerl is a plugin for programming in Erlang](http://www.vim.org/scripts/script.php?script_id=3743)
  * [An Erlang Plugin for Sublime Text 2, which enables code completion and allows you to run tests within the editor itself.](https://github.com/ostinelli/SublimErl)
  * [Better Erlang Support for Sublime Text](https://github.com/fjl/Sublime-Erlang)
+ * [Emacs-like Erlang editor fully written in Erlang with S-Lang driver](https://github.com/5HT/pie)
 
 ## Database clients
 

@@ -22,4 +22,4 @@
  * [voila](https://github.com/voila)
  * [MarkNijhof](https://github.com/MarkNijhof)
  * [machinshin](https://github.com/machinshin)
- 
+ * [Vladimir Galunshchikov](https://github.com/portfelioorg)
