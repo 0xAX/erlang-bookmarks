@@ -59,7 +59,8 @@
  * [Scaling  Erlang](http://inaka.net/blog/2011/10/07/scale-test-plan-simple-erlang-application/)
  * [Writing a URL Shortening Service in Erlang](http://userprimary.net/tags/common_test/)
  * [Testing Erlang (A public book on testing Erlang)](https://github.com/zkessin/testing-erlang-book)
-
+ * [Generic Erlang Port Driver](https://github.com/okeuday/GEPD)
+ * [Erlang Postgres Connection Pool with Episcina](http://blog.erlware.org/2014/05/04/erlang-postgres-connection-pool-with-episcina/)
 
 ## Books
 
@@ -79,7 +80,8 @@
  * [C4[1] Ippolito: Exploring Erlang](http://www.viddler.com/v/4b93caa4)
  * [Erlang Solutions Vimeo](http://vimeo.com/erlang)
  * [Erlang Solutions Youtube](http://www.youtube.com/user/ErlangSolutions)
-
+ * [Message Passing Concurrency in Erlang - Ulf Wiger](http://vimeo.com/8672652)
+ 
 ## Community
 
  * [Mailing lists](http://www.erlang.org/static/doc/mailinglist.html)
