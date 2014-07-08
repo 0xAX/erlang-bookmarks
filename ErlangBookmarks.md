@@ -32,6 +32,7 @@
  * [Your First Erlang Server](http://inaka.net/blog/2013/11/06/your-first-erlang-app-canillita/)
  * [Become an Erlang Cowboy](http://inaka.net/blog/2014/06/23/become-an-erlang-cowboy/)
  * [The Spawned Shelter](https://github.com/pyotrgalois/spawnedshelter)
+ * [Key Features and Some Application Area](http://usb-bg.org/Bg/Annual_Informatics/2013/SUB-Informatics-2013-6-103-110.pdf)
 
 ## Erlang - more advanced topics
 
