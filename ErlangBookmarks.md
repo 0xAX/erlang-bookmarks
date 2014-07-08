@@ -29,6 +29,9 @@
  * [Solving Embarrassingly Obvious Problems In Erlang](http://www.gar1t.com/blog/solving-embarrassingly-obvious-problems-in-erlang.html)
  * [Learn Erlang in Y minutes](http://learnxinyminutes.com/docs/erlang/)
  * [Systems that run forever self-heal and scale](http://www.infoq.com/presentations/self-heal-scalable-system)
+ * [Your First Erlang Server](http://inaka.net/blog/2013/11/06/your-first-erlang-app-canillita/)
+ * [Become an Erlang Cowboy](http://inaka.net/blog/2014/06/23/become-an-erlang-cowboy/)
+ * [The Spawned Shelter](https://github.com/pyotrgalois/spawnedshelter)
 
 ## Erlang - more advanced topics
 
@@ -42,6 +45,7 @@
  * [Build Erlang releases with erlang.mk and relx](http://ninenines.eu/articles/erlang.mk-and-relx)
  * [Universal Makefile for Erlang Projects That Use Rebar](http://blog.erlware.org/2013/06/04/universal-makefile-for-erlang-projects-that-use-rebar/)
  * [Don't Lose Your ETS Tables](http://steve.vinoski.net/blog/2011/03/23/dont-lose-your-ets-tables/)
+ * [Caching with ETS](http://inaka.net/blog/2013/03/05/ETS-simple-cache/)
  * [Implementation of "Don't Lose Your ETS Tables"](http://steve.vinoski.net/blog/2013/05/08/implementation-of-dont-lose-your-ets-tables/)
  * [Modern Server Application Design](http://oreillynet.com/pub/e/2877)
  * [Writing Beautiful Code - video](http://www.youtube.com/watch?v=IdJwECjylB4)
@@ -63,6 +67,9 @@
  * [How i Start - Erlang](http://howistart.org/posts/erlang/1)
  * [Generic Erlang Port Driver](https://github.com/okeuday/GEPD)
  * [Erlang Postgres Connection Pool with Episcina](http://blog.erlware.org/2014/05/04/erlang-postgres-connection-pool-with-episcina)
+ * [Handling Crashes in Erlang](http://inaka.net/blog/2012/11/29/every-day-erlang/)
+ * [Erlang Event-Driven Applications](http://inaka.net/blog/2013/01/21/erlang-event-driven/)
+ * [From Erlang To Java and Back Again](http://inaka.net/blog/2013/09/05/from-erlang-to-java-and-back-again-1/)
 
 ## Books
 
@@ -79,6 +86,7 @@
  * [Getting functional with Erlang by Mark Nijhof](http://gettingfunctionalwitherlang.com/)
 
 ## Videos
+
  * [C4[1] Ippolito: Exploring Erlang](http://www.viddler.com/v/4b93caa4)
  * [Erlang Solutions Vimeo](http://vimeo.com/erlang)
  * [Erlang Solutions Youtube](http://www.youtube.com/user/ErlangSolutions)
@@ -95,11 +103,13 @@
  * [Joe Armstrong - Erlang and other stuff](http://joearms.github.io/)
  * [JLOUIS Ramblings](http://jlouisramblings.blogspot.co.nz/)
  * [As bad as anything else](http://ferd.ca/)
+ * [Inaka's Blog](http://inaka.net/blog)
 
 ## Exercises
 
  * [Études for Erlang](http://chimera.labs.oreilly.com/books/1234000000726)
  * [Erlang Programming Exercises](http://www.erlang.org/course/exercises.html)
+ * [Erlang Training on Github](https://github.com/inaka/erlang_training)
 
 ## Documentation
 
@@ -116,6 +126,7 @@
  * [List of Erlang Enhancement Proposals](http://www.erlang.org/eeps/)
 
 ## Erlang Internals
+
  * [Erlang Engine Tuning: Part 1 - Know your Engine by Erik Stenman](http://www.youtube.com/watch?v=QbzH0L_0pxI)
  * [Erlang Engine Tuning: Part 2 - Know your Engine by Erik Stenman](http://www.youtube.com/watch?v=RcyN2yS5PRU)
  * [The BEAM Dispatcher](http://stenmans.org/happi_blog/?p=194)
@@ -124,6 +135,7 @@
  * [How to create and compile module in run time](http://vas.io/blog/2013/03/23/erlang-how-to-create-and-compile-module-in-run-time/)
 
 ## War diaries
+
  * [Troubleshooting Down the Logplex Rabbit Hole](https://blog.heroku.com/archives/2013/11/7/logplex-down-the-rabbit-hole)
 
 ## Documentation tools
@@ -186,7 +198,13 @@
  * [Heroku's Pipelined Redis client](https://github.com/heroku/redo)
  * [KVS: Key-Value Storages Framework (Mnesia, Riak)](https://github.com/synrc/kvs)
  * [BossDB: a sharded, caching, pooling, evented ORM for Erlang](https://github.com/evanmiller/boss_db)
+ * [SumoDB](https://github.com/inaka/sumo_db)
  * [Erlang VoltDB driver](https://github.com/VoltDB/voltdb-client-erlang)
+ 
+## Database servers
+
+ * [Lucene Server](https://github.com/tigertext/lucene_server)
+ * [edis](http://inaka.github.io/edis/)
 
 ## Loggers
 
@@ -202,12 +220,22 @@
  * [Erlang interface to low level socket operations](https://github.com/msantos/procket)
  * [barrel is a generic TCP acceptor pool with low latency in Erlang.](https://github.com/benoitc/barrel)
 
+## Utilities to Build Erlang Apps
+
+ * [Worker Pool: distribute your work](https://github.com/tigertext/worker_pool)
+ * [pCache: process-based cache](https://github.com/tigertext/pcache)
+ * [JInterface stdlib: GenServers in Java](https://github.com/inaka/jinterface_stdlib)
+ * [epocxy: Erlang Patters of Concurrency](https://github.com/duomark/epocxy)
+
 ## API clients
 
  * [Amazon Web Services API library for Erlang.](https://github.com/gleber/erlcloud)
  * [Balanced Payments (Payment Processor)](https://github.com/mattsta/balanced-erlang)
  * [Stripe-Erlang (Payment Processor)](https://github.com/mattsta/stripe-erlang/)
  * [EStripe (Payment Processor)](https://github.com/kato-im/estripe)
+ * [Apache Kafka producer/consumer for Erlang](https://github.com/HernanRivasAcosta/kafkerl)
+ * [APNS Client](https://github.com/inaka/apns4erl)
+ * [iTweet](https://github.com/inaka/itweet)
 
 ## Http clients
 
@@ -229,6 +257,7 @@
  * [Small and flexible web framework on top of Cowboy](https://github.com/kivra/giallo)
  * [Comparison of Erlang Web Frameworks](https://github.com/evanmiller/ChicagoBoss/wiki/Comparison-of-Erlang-Web-Frameworks)
  * [Leptus - REST framework](https://github.com/s1n4/leptus)
+ * [Lasse: Simple SSE handler for Cowboy](https://github.com/inaka/lasse)
 
 ## Web servers
 
@@ -283,6 +312,7 @@
   * [Folsom - Erlang events & Metrics](https://github.com/boundary/folsom)
   * [send folsom metrics to graphite](https://github.com/campanja/folsomite)
   * [eflame - Flame graph profiler for Erlang](https://github.com/proger/eflame)
+  * [Elvis - Erlang Style Reviewer **(WIP)**](https://github.com/inaka/elvis)
 
 
 ## Projects using Erlang
