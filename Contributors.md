@@ -24,3 +24,5 @@
  * [machinshin](https://github.com/machinshin)
  * [Vladimir Galunshchikov](https://github.com/portfelioorg)
  * [Brujo Benavides](https://github.com/elbrujohalcon)
+ * [Jean Duarte](https://github.com/duartejc)
+
