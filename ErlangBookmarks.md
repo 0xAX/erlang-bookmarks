@@ -33,6 +33,7 @@
  * [Become an Erlang Cowboy](http://inaka.net/blog/2014/06/23/become-an-erlang-cowboy/)
  * [The Spawned Shelter](https://github.com/pyotrgalois/spawnedshelter)
  * [Key Features and Some Application Area](http://usb-bg.org/Bg/Annual_Informatics/2013/SUB-Informatics-2013-6-103-110.pdf)
+ * [Why Erlang?](http://smyck.net/2012/04/22/why-erlang/)
 
 ## Erlang - more advanced topics
 
