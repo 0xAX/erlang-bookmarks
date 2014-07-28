@@ -34,6 +34,7 @@
  * [The Spawned Shelter](https://github.com/pyotrgalois/spawnedshelter)
  * [Key Features and Some Application Area](http://usb-bg.org/Bg/Annual_Informatics/2013/SUB-Informatics-2013-6-103-110.pdf)
  * [Why Erlang?](http://smyck.net/2012/04/22/why-erlang/)
+ * [A Concise Guide to Erlang](http://www.cis.upenn.edu/~matuszek/General/ConciseGuides/concise-erlang.html)
 
 ## Erlang - more advanced topics
 
