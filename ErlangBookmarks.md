@@ -229,6 +229,7 @@
  * [pCache: process-based cache](https://github.com/tigertext/pcache)
  * [JInterface stdlib: GenServers in Java](https://github.com/inaka/jinterface_stdlib)
  * [epocxy: Erlang Patters of Concurrency](https://github.com/duomark/epocxy)
+ * [mad: Small and Fast Rebar Replacement](https://github.com/synrc/mad)
 
 ## API clients
 
