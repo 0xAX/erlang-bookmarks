@@ -118,10 +118,9 @@
 
  * [Erlang/OTP documentation](http://www.erlang.org/doc/)
  * [Erlang Reference Manual User's Guide](http://www.erlang.org/doc/reference_manual/users_guide.html)
- * [Alternative to the  official erlang documentation](http://erldocs.com/)
+ * [Alternative to the official erlang documentation](http://erldocs.com/)
  * [Inside the Erlang VM with focus on SMP (PDF)](http://www.erlang.se/euc/08/euc_smp.pdf)
  * [Erlang Documentation Server](http://erldoc.info/)
- * [Alternative to the official erlang documentation](http://erldocs.com/)
 
 ## Style guide and Erlang Enhancement Proposals
 
