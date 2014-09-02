@@ -30,7 +30,7 @@
  * [Learn Erlang in Y minutes](http://learnxinyminutes.com/docs/erlang/)
  * [Systems that run forever self-heal and scale](http://www.infoq.com/presentations/self-heal-scalable-system)
  * [Your First Erlang Server](http://inaka.net/blog/2013/11/06/your-first-erlang-app-canillita/)
- * [Become an Erlang Cowboy](http://inaka.net/blog/2014/06/23/become-an-erlang-cowboy/)
+ * [Become an Erlang Cowboy](https://medium.com/erlang-lisp-and-haskell/become-an-erlang-cowboy-and-tame-the-wild-wild-web-part-i-37f8dd1df160)
  * [The Spawned Shelter](https://github.com/pyotrgalois/spawnedshelter)
  * [Key Features and Some Application Area](http://usb-bg.org/Bg/Annual_Informatics/2013/SUB-Informatics-2013-6-103-110.pdf)
  * [Why Erlang?](http://smyck.net/2012/04/22/why-erlang/)
