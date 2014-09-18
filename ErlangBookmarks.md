@@ -85,6 +85,7 @@
  * [Erlang Handbook. A concise reference for Erlang](http://opensource.erlang-solutions.com/erlang-handbook/)
  * [Designing for Scalability with Erlang/OTP: Implementing Robust, Fault-Tolerant Systems](http://www.amazon.com/gp/product/1449320732/)
  * [Getting functional with Erlang by Mark Nijhof](http://gettingfunctionalwitherlang.com/)
+ * [Stuff Goes Bad: ERLANG IN ANGER by Fred Hébert](http://www.erlang-in-anger.com/)
 
 ## Videos
 
