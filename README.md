@@ -5,7 +5,7 @@ Collection of links for erlang developers - [Erlang bookmarks](https://github.co
 ## Contributing
 
   * Fork current repository
-  * Add new sections/notes
+  * Add new sections/notes to [ErlangBookmarks.md](https://github.com/0xAX/erlang-bookmarks/blob/master/ErlangBookmarks.md)
   * Add your name to the Contributors file
   * Send pull request
 
