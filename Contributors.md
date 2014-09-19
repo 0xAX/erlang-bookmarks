@@ -26,4 +26,4 @@
  * [Brujo Benavides](https://github.com/elbrujohalcon)
  * [Jean Duarte](https://github.com/duartejc)
  * [Eugene Safronov](https://github.com/sejoker)
-
+ * [Gonzalo Serrano](https://github.com/gonzaloserrano)
