@@ -17,7 +17,7 @@
  * [Erlang is not a Concurrent Functional Programming Language](http://www.javalimit.com/2011/05/erlang-is-not-a-concurrent-functional-programming-language.html)
  * [Erlangs parallelism is not parallelism!](http://jlouisramblings.blogspot.co.nz/2011/07/erlangs-parallelism-is-not-parallelism.html)
  * [Some Erlang Magic for Beginners](http://inaka.net/blog/2012/12/03/some-erlang-magic/)
- * [Running Erlang on Mac OS X](http://rudamoura.com/erlang-on-mac.html)
+ * [Running Erlang on Mac OS X](http://blog.recursion.es/how-to-install-erlang-r16b03-and-17-1-with-observer-in-osx)
  * [Erlang Basics](http://alancastro.org/2010/04/26/erlang-basics.html)
  * [Interactive tutorial that allows you to try the power of Erlang directly in your browser](http://www.tryerlang.org/)
  * [Erlang examples](http://www.erlang.org/examples)
