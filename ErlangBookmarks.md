@@ -249,7 +249,7 @@
 ## Web frameworks
 
  * [BeepBeep is a simple web application framework for Mochiweb inspired by Rails and Merb](https://github.com/davebryson/beepbeep)
- * [Erlang web MVC, now featuring Comet](https://github.com/evanmiller/ChicagoBoss)
+ * [Chicago Boss - Erlang web MVC, now featuring Comet](https://github.com/evanmiller/ChicagoBoss)
  * [Nitrogen - interactive web applications in full-stack Erlang.](http://nitrogenproject.com/)
  * [Zotonic, the Erlang Web Framework](http://zotonic.com/)
  * [Erlang Web Framework on WebSockets](https://github.com/5HT/n2o)
