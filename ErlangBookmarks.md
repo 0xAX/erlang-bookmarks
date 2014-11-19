@@ -228,6 +228,7 @@
  * [JInterface stdlib: GenServers in Java](https://github.com/inaka/jinterface_stdlib)
  * [epocxy: Erlang Patters of Concurrency](https://github.com/duomark/epocxy)
  * [mad: Small and Fast Rebar Replacement](https://github.com/synrc/mad)
+ * [gut: Scaffolding Tool](https://github.com/unbalancedparentheses/gut)
 
 ## API clients
 
