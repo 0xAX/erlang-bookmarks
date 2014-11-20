@@ -316,6 +316,7 @@
   * [send folsom metrics to graphite](https://github.com/campanja/folsomite)
   * [eflame - Flame graph profiler for Erlang](https://github.com/proger/eflame)
   * [Elvis - Erlang Style Reviewer **(WIP)**](https://github.com/inaka/elvis)
+  * [gut: Scaffolding Tool](https://github.com/unbalancedparentheses/gut)
 
 
 ## Projects using Erlang

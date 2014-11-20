@@ -27,3 +27,4 @@
  * [Jean Duarte](https://github.com/duartejc)
  * [Eugene Safronov](https://github.com/sejoker)
  * [Gonzalo Serrano](https://github.com/gonzaloserrano)
+ * [Tyler Weir](https://github.com/tjweir)
