@@ -173,6 +173,7 @@
 ## Package managers
 
  * [A sophisticated build-tool for Erlang projects that follows OTP principles](https://github.com/rebar/rebar)
+ * [ Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases](https://github.com/rebar/rebar3)
  * [A repository for publishing packages for BEAM-based languages](http://expm.co/)
  * [Sinan is a build tool designed to build Erlang/OTP Projects, Releases and Applications. (Deprecated)](https://github.com/erlware-deprecated/sinan)
  * [Erlang package manager](https://github.com/agner/agner)
@@ -190,7 +191,8 @@
 
 ## Database clients
 
- * [Erlang PostgreSQL driver](https://github.com/wg/epgsql)
+ * [Erlang PostgreSQL driver - epgsql](https://github.com/wg/epgsql)
+ * [Erlang PostgreSQL driver - pgsql](https://github.com/semiocast/pgsql)
  * [Erlang MySQL driver](https://github.com/Eonblast/Emysql)
  * [Erlang clients for Riak](https://github.com/basho/riak-erlang-client)
  * [Couchbeam - simple erlang CouchDB framework.](http://benoitc.github.io/couchbeam/overview-summary.html)
