@@ -9,4 +9,4 @@ Collection of links for erlang developers - [Erlang bookmarks](https://github.co
   * Add your name to the Contributors file
   * Send pull request
 
-Or edit [wiki](https://github.com/0xAX/erlang-bookmarks/wiki/Erlang-bookmarks) page.
+Or just ping me at twitter - [@0xAX](https://twitter.com/0xAX) and give a link, and i'll add it to erlang-bookmarks.
