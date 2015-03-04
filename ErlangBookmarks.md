@@ -208,6 +208,7 @@
 
  * [Lucene Server](https://github.com/tigertext/lucene_server)
  * [edis](http://inaka.github.io/edis/)
+ * [pulsedb](https://github.com/pulsedb/pulsedb)
 
 ## Loggers
 
