@@ -12,7 +12,7 @@
  * [The Erlang Rationale](http://vidiowiki.com/media/paper/0m-V9dOL0AeY%20The_Erlang_Rationale.pdf)
  * [Making Reliable Distributed Systems in the Presence of software errors](http://www.sics.se/~joe/thesis/armstrong_thesis_2003.pdf)
  * [A little Erlang Tutorial](http://wrongnotes.blogspot.com/2007/09/little-erlang.html)
- * [Thinking in Erlang](http://ru.scribd.com/doc/44221/Thinking-in-Erlang)
+ * [Thinking in Erlang](http://ninenines.eu/talks/thinking-in-erlang/thinking-in-erlang.html)
  * [An Open Letter to the Erlang Beginner (or Onlooker)](http://ferd.ca/an-open-letter-to-the-erlang-beginner-or-onlooker.html)
  * [Erlang is not a Concurrent Functional Programming Language](http://www.javalimit.com/2011/05/erlang-is-not-a-concurrent-functional-programming-language.html)
  * [Erlangs parallelism is not parallelism!](http://jlouisramblings.blogspot.co.nz/2011/07/erlangs-parallelism-is-not-parallelism.html)
