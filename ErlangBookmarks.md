@@ -320,6 +320,10 @@
   * [eflame - Flame graph profiler for Erlang](https://github.com/proger/eflame)
   * [Elvis - Erlang Style Reviewer **(WIP)**](https://github.com/inaka/elvis)
 
+## Metrics
+
+  * [Expose Erlang Events and Metrics](https://github.com/boundary/folsom)
+
 
 ## Projects using Erlang
 
