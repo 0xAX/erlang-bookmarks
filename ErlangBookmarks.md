@@ -203,6 +203,7 @@
  * [BossDB: a sharded, caching, pooling, evented ORM for Erlang](https://github.com/evanmiller/boss_db)
  * [SumoDB](https://github.com/inaka/sumo_db)
  * [Erlang VoltDB driver](https://github.com/VoltDB/voltdb-client-erlang)
+ * [NIF based Erlang bindings for Couchbase ] (https://github.com/chitika/cberl)
  
 ## Database servers
 
