@@ -86,6 +86,7 @@
  * [Designing for Scalability with Erlang/OTP: Implementing Robust, Fault-Tolerant Systems](http://www.amazon.com/gp/product/1449320732/)
  * [Getting functional with Erlang by Mark Nijhof](http://gettingfunctionalwitherlang.com/)
  * [Stuff Goes Bad: ERLANG IN ANGER by Fred Hébert](http://www.erlang-in-anger.com/)
+ * [The Erlanger Playbook by Loïc Hoguin](http://ninenines.eu/articles/erlanger-playbook/)
 
 ## Videos
 
@@ -204,7 +205,7 @@
  * [SumoDB](https://github.com/inaka/sumo_db)
  * [Erlang VoltDB driver](https://github.com/VoltDB/voltdb-client-erlang)
  * [NIF based Erlang bindings for Couchbase ] (https://github.com/chitika/cberl)
- 
+
 ## Database servers
 
  * [Lucene Server](https://github.com/tigertext/lucene_server)
