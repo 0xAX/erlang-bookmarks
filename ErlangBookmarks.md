@@ -261,6 +261,7 @@
  * [Comparison of Erlang Web Frameworks](https://github.com/evanmiller/ChicagoBoss/wiki/Comparison-of-Erlang-Web-Frameworks)
  * [Leptus - REST framework](https://github.com/s1n4/leptus)
  * [Lasse: Simple SSE handler for Cowboy](https://github.com/inaka/lasse)
+ * [Elli - Erlang web server for HTTP APIs](https://github.com/knutin/elli)
 
 ## Web servers
 
