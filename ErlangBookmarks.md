@@ -340,4 +340,5 @@
   * [Kha - continuous integration server in Erlang.](https://github.com/greenelephantlabs/kha)
   * [Logplex - syslog log router](https://github.com/heroku/logplex)
   * [Chef - configuration management software](http://www.getchef.com)
+  * [VerneMQ - MQTT message broker](https://verne.mq)
 
