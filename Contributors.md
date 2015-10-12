@@ -28,3 +28,4 @@
  * [Eugene Safronov](https://github.com/sejoker)
  * [Gonzalo Serrano](https://github.com/gonzaloserrano)
  * [Constantin Rack](https://github.com/c-rack)
+ * [Lars Hesel Christensen](https://github.com/larshesel)
