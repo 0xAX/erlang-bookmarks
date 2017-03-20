@@ -4,7 +4,7 @@
  * [Why Use Erlang?](http://amtal.github.io/2011/08/01/why-use-erlang.html)
  * [When would you choose Erlang?](http://blog.troutwine.us/2013/07/10/choose_erlang.html)
  * [Erlang: For an absolute beginner](http://dsingleton.co.uk/blog/erlang-beginners-tutorial)
- * [An Erlang OTP tutorial for beginners](http://blog.bot.co.za/en/article/349/an-erlang-otp-tutorial-for-beginners)
+ * [An Erlang OTP tutorial for beginners](https://github.com/hcvst/erlang-otp-tutorial)
  * [A Beginners Guide to Erlang](http://blog.equanimity.nl/blog/2013/05/29/a-beginners-guide-to-erlang/)
  * [What is the best way to learn Erlang?](http://stackoverflow.com/questions/1017017/what-is-the-best-way-to-learn-erlang)
  * [The Joy of Erlang; Or, How To Ride A Toruk](http://www.evanmiller.org/joy-of-erlang.html)
