@@ -88,6 +88,7 @@
  * [Getting functional with Erlang by Mark Nijhof](http://gettingfunctionalwitherlang.com/)
  * [Stuff Goes Bad: ERLANG IN ANGER by Fred Hébert](http://www.erlang-in-anger.com/)
  * [The Erlanger Playbook by Loïc Hoguin](http://ninenines.eu/articles/erlanger-playbook/)
+ * [PropEr Testing by Fred Hébert](http://propertesting.com/)
 
 ## Videos
 
