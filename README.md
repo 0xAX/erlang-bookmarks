@@ -1,6 +1,6 @@
 # erlang-bookmarks
 
-Collection of links for erlang developers - [Erlang bookmarks](https://github.com/0xAX/erlang-bookmarks/wiki/Erlang-bookmarks)
+Collection of links for erlang developers - [Erlang bookmarks](https://github.com/0xAX/erlang-bookmarks/blob/master/ErlangBookmarks.md)
 
 ## Contributing
 
