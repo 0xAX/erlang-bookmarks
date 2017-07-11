@@ -307,6 +307,7 @@
 
 ## Utils
 
+  * [Director - Flexible, fast and powerful supervisor library for Erlang/Elixir processes.](https://github.com/pouriya-jahanbakhsh/director)
   * [The Dialyzer is a static analysis tool ](http://www.erlang.org/doc/man/dialyzer.html)
   * [erlang-history - Hacks to add shell history to Erlang's shell](https://github.com/ferd/erlang-history)
   * [Common Makefile rules for building and testing Erlang applications.](https://github.com/extend/erlang.mk)
