@@ -36,7 +36,8 @@
  * [A Concise Guide to Erlang](http://www.cis.upenn.edu/~matuszek/General/ConciseGuides/concise-erlang.html)
 
 ## Erlang - more advanced topics
-
+ 
+ * [Understanding Erlang generic server (gen_server)](http://codefather.org/posts/Understanding_Erlang_generic_server.html)
  * [Erlang gproc Failure Semantics](http://christophermeiklejohn.com/erlang/2013/06/05/erlang-gproc-failure-semantics.html)
  * [Monads in Erlang](http://amtal.github.io/2011/09/24/monads-in-erlang.html)
  * [Optimizing Erlang applications: emysql](http://blog.process-one.net/optimizing-erlang-applications-emysql/)
