@@ -222,6 +222,7 @@
 
 ## Network
 
+ * [Sockerl - Socket library for TCP protocols that provides fast and useful API for implementing servers, clients.](https://github.com/Pouriya-Jahanbakhsh/sockerl)
  * [Socket acceptor pool for TCP protocols.](https://github.com/extend/ranch)
  * [gen_socket is an Erlang socket interface which can be used to create gen_tcp and gen_udp based sockets with special properties.](https://github.com/travelping/gen_socket)
  * [Erlang interface to low level socket operations](https://github.com/msantos/procket)
