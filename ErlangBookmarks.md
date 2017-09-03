@@ -131,8 +131,7 @@
 
 ## Erlang Internals
 
- * [Erlang Engine Tuning: Part 1 - Know your Engine by Erik Stenman](http://www.youtube.com/watch?v=QbzH0L_0pxI)
- * [Erlang Engine Tuning: Part 2 - Know your Engine by Erik Stenman](http://www.youtube.com/watch?v=RcyN2yS5PRU)
+ * [Erlang Engine Tuning - Know your Engine by Erik Stenman](https://www.youtube.com/playlist?list=PL9MhXsiBgon5QVFi3rQDZAlftwPCW8gLc)
  * [The BEAM Dispatcher](http://stenmans.org/happi_blog/?p=194)
  * [The Erlang Tagging Scheme](http://stenmans.org/happi_blog/?p=176)
  * [Erlang, Binaries, and Garbage Collection](http://dieswaytoofast.blogspot.ca/2012/12/erlang-binaries-and-garbage-collection.html)
