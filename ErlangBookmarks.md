@@ -89,6 +89,7 @@
  * [Stuff Goes Bad: ERLANG IN ANGER by Fred Hébert](http://www.erlang-in-anger.com/)
  * [The Erlanger Playbook by Loïc Hoguin](http://ninenines.eu/articles/erlanger-playbook/)
  * [PropEr Testing by Fred Hébert](http://propertesting.com/)
+ * [The Erlang Runtime System](https://happi.github.io/theBeamBook/)
 
 ## Videos
 
@@ -96,6 +97,11 @@
  * [Erlang Solutions Vimeo](http://vimeo.com/erlang)
  * [Erlang Solutions Youtube](http://www.youtube.com/user/ErlangSolutions)
  * [Message Passing Concurrency in Erlang - Ulf Wiger](http://vimeo.com/8672652)
+
+## MOOC's
+
+ * [Functional Programming in Erlang](https://www.futurelearn.com/courses/functional-programming-erlang)
+ * [Cuncurrent Programming in Erlang](https://www.futurelearn.com/courses/concurrent-programming-erlang/)
 
 ## Community
 
@@ -113,6 +119,7 @@
 ## Exercises
 
  * [Études for Erlang](http://chimera.labs.oreilly.com/books/1234000000726)
+ * [Erlang Exercism](http://exercism.io/languages/erlang/about)
  * [Erlang Programming Exercises](http://www.erlang.org/course/exercises.html)
  * [Erlang Training on Github](https://github.com/inaka/erlang_training)
 
@@ -133,8 +140,10 @@
 
  * [Erlang Engine Tuning - Know your Engine by Erik Stenman](https://www.youtube.com/playlist?list=PL9MhXsiBgon5QVFi3rQDZAlftwPCW8gLc)
  * [The BEAM Dispatcher](http://stenmans.org/happi_blog/?p=194)
+ * [Book about ERTS](https://happi.github.io/theBeamBook/)
  * [The Erlang Tagging Scheme](http://stenmans.org/happi_blog/?p=176)
  * [Erlang, Binaries, and Garbage Collection](http://dieswaytoofast.blogspot.ca/2012/12/erlang-binaries-and-garbage-collection.html)
+ * [Garbage Collection in Erlang 19.0](https://www.erlang-solutions.com/blog/erlang-19-0-garbage-collector.html)
  * [How to create and compile module in run time](http://vas.io/blog/2013/03/23/erlang-how-to-create-and-compile-module-in-run-time/)
 
 ## War diaries
@@ -153,6 +162,8 @@
  * [A mocking library for Erlang](https://github.com/eproxus/meck)
  * [A Coverage Analysis Tool for Erlang](http://www.erlang.org/doc/man/cover.html)
  * [Triq (pronounced "Trick Check") is a free alternative to QuviQ eqc](https://github.com/krestenkrab/triq)
+ * [Concuerror - systematically test Erlang programs for concurrency errors](http://concuerror.com/)
+ * [Cuter - conolic (auto-generated) testing for Erlang](https://github.com/aggelgian/cuter)
 
 ## Debugging and profiling
 
@@ -164,6 +175,7 @@
  * [Convert fprof to callgring output](https://github.com/isacssouza/erlgrind)
  * [A GUI tool for observing an erlang system.](http://www.erlang.org/doc/man/observer.html)
  * [Analyze application performance and function call hierarchy with power of kcachegrind](https://github.com/virtan/eep)
+ * [XProf - Profile function execution depending on call arguments](https://github.com/Appliscale/xprof)
 
 ## Load testing tools
 
@@ -185,6 +197,7 @@
  * [erlide is an Erlang IDE based on Eclipse.](http://erlide.org/)
  * [Erlang plugin for IntelliJ IDEA](http://ignatov.github.io/intellij-erlang/)
  * [distel emacs - erlang IDE](https://github.com/massemanet/distel/)
+ * [Erlang Development Tool Suite for emacs](https://github.com/tjarvstrand/edts)
  * [Wrangler - refactoring tool for Emacs and Erlide (with build in distel)](https://www.cs.kent.ac.uk/projects/wrangler/Wrangler/Home.html)
  * [Vimerl is a plugin for programming in Erlang](http://www.vim.org/scripts/script.php?script_id=3743)
  * [An Erlang Plugin for Sublime Text 2, which enables code completion and allows you to run tests within the editor itself.](https://github.com/ostinelli/SublimErl)
@@ -205,7 +218,7 @@
  * [BossDB: a sharded, caching, pooling, evented ORM for Erlang](https://github.com/evanmiller/boss_db)
  * [SumoDB](https://github.com/inaka/sumo_db)
  * [Erlang VoltDB driver](https://github.com/VoltDB/voltdb-client-erlang)
- * [NIF based Erlang bindings for Couchbase ] (https://github.com/chitika/cberl)
+ * [NIF based Erlang bindings for Couchbase ](https://github.com/chitika/cberl)
 
 ## Database servers
 
