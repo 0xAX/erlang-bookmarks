@@ -1,7 +1,5 @@
 ## Erlang for beginners
 
- * [Why erlang?](http://veldstra.org/whyerlang/)
- * [Why Use Erlang?](http://amtal.github.io/2011/08/01/why-use-erlang.html)
  * [When would you choose Erlang?](http://blog.troutwine.us/2013/07/10/choose_erlang.html)
  * [Erlang: For an absolute beginner](http://dsingleton.co.uk/blog/erlang-beginners-tutorial)
  * [An Erlang OTP tutorial for beginners](https://github.com/hcvst/erlang-otp-tutorial)
