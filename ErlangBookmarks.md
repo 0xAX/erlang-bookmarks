@@ -16,7 +16,6 @@
  * [Erlangs parallelism is not parallelism!](http://jlouisramblings.blogspot.co.nz/2011/07/erlangs-parallelism-is-not-parallelism.html)
  * [Some Erlang Magic for Beginners](http://inaka.net/blog/2012/12/03/some-erlang-magic/)
  * [Running Erlang on Mac OS X](http://blog.recursion.es/how-to-install-erlang-r16b03-and-17-1-with-observer-in-osx)
- * [Erlang Basics](http://alancastro.org/2010/04/26/erlang-basics.html)
  * [Interactive tutorial that allows you to try the power of Erlang directly in your browser](http://www.tryerlang.org/)
  * [Erlang examples](http://www.erlang.org/examples)
  * [Building a Non-blocking TCP server using OTP principles](https://erlangcentral.org/wiki/index.php/Building_a_Non-blocking_TCP_server_using_OTP_principles)
