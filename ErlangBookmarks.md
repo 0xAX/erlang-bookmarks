@@ -82,7 +82,7 @@
  * [Erlang and OTP in Action by Martin Logan](http://www.amazon.com/Erlang-OTP-Action-Martin-Logan/dp/1933988789/ref=pd_sim_b_6)
  * [Building Web Applications with Erlang: Working with REST and Web Sockets on Yaws by Zachary Kessin](http://www.amazon.com/Building-Web-Applications-Erlang-Working/dp/1449309968/ref=pd_sim_b_3)
  * [Erlang Handbook. A concise reference for Erlang](http://opensource.erlang-solutions.com/erlang-handbook/)
- * [Designing for Scalability with Erlang/OTP: Implementing Robust, Fault-Tolerant Systems](http://www.amazon.com/gp/product/1449320732/)
+ * [Designing for Scalability with Erlang/OTP: Implementing Robust, Fault-Tolerant Systems](http://www.amazon.com/gp/product/1449320732/) by Francesco Cesarini and Steve Vinoski
  * [Getting functional with Erlang by Mark Nijhof](http://gettingfunctionalwitherlang.com/)
  * [Stuff Goes Bad: ERLANG IN ANGER by Fred Hébert](http://www.erlang-in-anger.com/)
  * [The Erlanger Playbook by Loïc Hoguin](http://ninenines.eu/articles/erlanger-playbook/)
